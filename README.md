@@ -6,7 +6,7 @@
 </h1>
 <h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4>
   </h4>
-</div> -->
+</div>
 
 # [LeetCode](https://leetcode.com/problemset/algorithms/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/) 
 [![GitHub license](https://img.shields.io/github/license/Prince-1501/Complete-DSA-Preparation.svg)](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/master/LICENSE)
@@ -15,12 +15,6 @@
 _If you like this project, please leave me a star._ &#9733;
 
 <img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/leetcode.png" alt="leetcode" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/geeksforgeeks.png" alt="geeksforgeeks" width="60"/><a href="https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q/"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/hello_world.png" alt="Hello World" width="90"/></a>
-
-
-
-_A little Contribution :moneybag:Makes You Happy :heart: (And me Also :blush:)_
-<br>
-<img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/phone-pe.png" alt="Phone Pe" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/Google-Pay.png" alt="Google Pay" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/bhim.png" alt="bhim" width="50"/><a href="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa-course%40upi.jpg"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa-course@upi.jpg" alt="bhim upi" width="50"/></a>
 
 
 
@@ -373,17 +367,6 @@ _A little Contribution :moneybag:Makes You Happy :heart: (And me Also :blush:)_
 <br>
 <br>
 
-
-## 📘&nbsp; License
-
-The Whole content management system is released under the under terms of the [MIT License](LICENSE).
-
-
-## Connect with us  ~Prince
-
-<a href="https://telegram.me/helloworldbyprince" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/telegram.png" alt="telegram" width="60"/></a>
-<a href="https://www.linkedin.com/in/iamprince/" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/linkedin.png" alt="Linkedin" width="60"/></a>
-<a href="https://www.youtube.com/c/HelloWorldbyprince/" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/youtube.png" alt="youtube" width="85"/></a>
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
