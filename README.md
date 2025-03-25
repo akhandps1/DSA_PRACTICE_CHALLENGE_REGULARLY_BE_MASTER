@@ -367,17 +367,6 @@ _If you like this project, please leave me a star._ &#9733;
 <br>
 <br>
 
-
-***Do star, fork and share the repo to show your support, it would help others too!***   <br>
- <br>
- Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/iamprince/)***, ***[Telegram](https://telegram.me/helloworldbyprince)***
- 
- :heart: ***Thank you all for Forking this repository***  :heart:
-
-
-
-
-
 The "100 Days of Code" challenge is a challenge that was invented to motivate people to continue learning and coding (and therefore growing as a developer).
 
 |                                                    Days #001-010                                                     |                                                                                        Days #011-020                                                                                        |                                                                                     Days #021-030                                                                                      |                                                                Days #031-040                                                                 |                                                                Days #041-050                                                                 |    
